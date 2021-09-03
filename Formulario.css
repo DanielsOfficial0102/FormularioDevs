@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+
 /* Todos os elementos da página */
 * {
     margin: 0;
@@ -6,14 +8,14 @@
 
 /* Elementos com o ID "titulo" */
 #titulo {
-    font-family: sans-serif;
+    font-family: "Poppins", sans-serif;
     color: #380B61;
     margin-left: 7%;
 } 
 
 /* Elementos com o ID "subtitulo" */
 #subtitulo {
-    font-family: sans-serif;
+    font-family: "Poppins", sans-serif;
     color: #380B61;
     margin-left: 10%;
 } 
@@ -30,7 +32,7 @@ fieldset {
 /* Elemento de tag <body> */
 body{
     background-color: #CCBBFF;
-    font-family: sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 1em;
     color: #59429d;
     margin-left: 36%;
@@ -40,7 +42,7 @@ body{
 
 /* Elementos de tags <body>, <input>, <Select>, <textarea> e <button> */
 input, select, textarea, button {
-    font-family: sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 1em;
     color: #59429d;
     border-radius: 5px;
